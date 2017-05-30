@@ -1,0 +1,272 @@
+04-May-2017 17:29:12.258 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.14
+04-May-2017 17:29:12.331 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 13 2017 12:55:45 UTC
+04-May-2017 17:29:12.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.14.0
+04-May-2017 17:29:12.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-May-2017 17:29:12.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-May-2017 17:29:12.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-May-2017 17:29:12.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_111\jre
+04-May-2017 17:29:12.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_111-b14
+04-May-2017 17:29:12.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-May-2017 17:29:12.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\kimco\git\apache-tomcat-8.5.14
+04-May-2017 17:29:12.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\kimco\git\apache-tomcat-8.5.14
+04-May-2017 17:29:12.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\kimco\git\apache-tomcat-8.5.14\conf\logging.properties
+04-May-2017 17:29:12.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-May-2017 17:29:12.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-May-2017 17:29:12.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-May-2017 17:29:12.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\kimco\git\apache-tomcat-8.5.14
+04-May-2017 17:29:12.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\kimco\git\apache-tomcat-8.5.14
+04-May-2017 17:29:12.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\kimco\git\apache-tomcat-8.5.14\temp
+04-May-2017 17:29:12.341 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_111\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\kimco\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\kimco\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\kimco\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\kimco\AppData\Local\Apps\2.0\E2YTE3DE.NT7\3758QCJ4.EHR\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\kimco\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\doxygen\bin;C:\Program Files (x86)\Skype\Phone\;C:\Users\kimco\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_111\bin;C:\Users\kimco\git\apache-maven-3.5.0\bin;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64;.
+04-May-2017 17:29:21.261 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-May-2017 17:29:21.884 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-May-2017 17:29:21.902 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-May-2017 17:29:21.906 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-May-2017 17:29:21.906 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 11218 ms
+04-May-2017 17:29:22.016 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+04-May-2017 17:29:22.017 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.14
+04-May-2017 17:29:22.129 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war
+04-May-2017 17:29:23.741 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-May-2017 17:29:23.884 INFO [localhost-startStop-1] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 17:29:23.939 INFO [localhost-startStop-1] com.sun.jersey.api.core.ScanningResourceConfig.logClasses Root resource classes found:
+  class main.java.com.rest.ImageIO
+04-May-2017 17:29:23.939 INFO [localhost-startStop-1] com.sun.jersey.api.core.ScanningResourceConfig.init No provider classes found.
+04-May-2017 17:29:24.151 INFO [localhost-startStop-1] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 17:29:25.664 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war has finished in 3,535 ms
+04-May-2017 17:29:25.666 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\docs
+04-May-2017 17:29:25.736 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\docs has finished in 70 ms
+04-May-2017 17:29:25.737 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\examples
+04-May-2017 17:29:27.502 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\examples has finished in 1,765 ms
+04-May-2017 17:29:27.502 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\host-manager
+04-May-2017 17:29:27.637 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\host-manager has finished in 135 ms
+04-May-2017 17:29:27.638 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\manager
+04-May-2017 17:29:27.709 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\manager has finished in 71 ms
+04-May-2017 17:29:27.709 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ROOT
+04-May-2017 17:29:27.776 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ROOT has finished in 67 ms
+04-May-2017 17:29:27.784 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-May-2017 17:29:27.801 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-May-2017 17:29:27.806 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 5900 ms
+04-May-2017 17:51:08.069 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ImagePreprocessing]
+04-May-2017 17:51:39.988 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war
+04-May-2017 17:51:40.666 INFO [http-nio-8080-exec-8] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 17:51:40.723 INFO [http-nio-8080-exec-8] com.sun.jersey.api.core.ScanningResourceConfig.logClasses Root resource classes found:
+  class main.java.com.rest.ImageIO
+04-May-2017 17:51:40.723 INFO [http-nio-8080-exec-8] com.sun.jersey.api.core.ScanningResourceConfig.init No provider classes found.
+04-May-2017 17:51:40.906 INFO [http-nio-8080-exec-8] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 17:51:41.992 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war has finished in 2,003 ms
+04-May-2017 20:22:29.530 INFO [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ImagePreprocessing]
+04-May-2017 20:23:44.673 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-May-2017 20:23:45.013 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+04-May-2017 20:23:45.204 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+04-May-2017 20:23:45.312 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-May-2017 20:23:45.316 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+04-May-2017 20:23:45.320 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-May-2017 20:23:45.322 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+04-May-2017 20:24:56.596 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.14
+04-May-2017 20:24:56.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 13 2017 12:55:45 UTC
+04-May-2017 20:24:56.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.14.0
+04-May-2017 20:24:56.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-May-2017 20:24:56.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-May-2017 20:24:56.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-May-2017 20:24:56.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_111\jre
+04-May-2017 20:24:56.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_111-b14
+04-May-2017 20:24:56.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-May-2017 20:24:56.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\kimco\git\apache-tomcat-8.5.14
+04-May-2017 20:24:56.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\kimco\git\apache-tomcat-8.5.14
+04-May-2017 20:24:56.604 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\kimco\git\apache-tomcat-8.5.14\conf\logging.properties
+04-May-2017 20:24:56.604 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-May-2017 20:24:56.604 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-May-2017 20:24:56.604 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-May-2017 20:24:56.604 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\kimco\git\apache-tomcat-8.5.14
+04-May-2017 20:24:56.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\kimco\git\apache-tomcat-8.5.14
+04-May-2017 20:24:56.606 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\kimco\git\apache-tomcat-8.5.14\temp
+04-May-2017 20:24:56.608 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_111\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\kimco\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\kimco\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\kimco\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\kimco\AppData\Local\Apps\2.0\E2YTE3DE.NT7\3758QCJ4.EHR\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\kimco\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\doxygen\bin;C:\Program Files (x86)\Skype\Phone\;C:\Users\kimco\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_111\bin;C:\Users\kimco\git\apache-maven-3.5.0\bin;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64;.
+04-May-2017 20:24:56.828 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-May-2017 20:24:57.078 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-May-2017 20:24:57.081 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-May-2017 20:24:57.084 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-May-2017 20:24:57.084 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 921 ms
+04-May-2017 20:24:57.117 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+04-May-2017 20:24:57.117 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.14
+04-May-2017 20:24:57.132 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\docs
+04-May-2017 20:24:57.530 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\docs has finished in 397 ms
+04-May-2017 20:24:57.530 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\examples
+04-May-2017 20:24:58.943 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\examples has finished in 1,412 ms
+04-May-2017 20:24:58.943 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\host-manager
+04-May-2017 20:24:59.045 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\host-manager has finished in 102 ms
+04-May-2017 20:24:59.046 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\manager
+04-May-2017 20:24:59.166 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\manager has finished in 120 ms
+04-May-2017 20:24:59.167 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ROOT
+04-May-2017 20:24:59.233 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ROOT has finished in 67 ms
+04-May-2017 20:24:59.237 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-May-2017 20:24:59.249 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-May-2017 20:24:59.254 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2168 ms
+04-May-2017 20:54:52.394 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context [/manager]
+04-May-2017 20:54:52.405 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/manager] has started
+04-May-2017 20:54:52.473 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/manager] is completed
+04-May-2017 20:55:07.034 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-May-2017 20:55:07.208 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+04-May-2017 20:55:07.470 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+04-May-2017 20:55:07.496 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-May-2017 20:55:07.501 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+04-May-2017 20:55:07.505 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-May-2017 20:55:07.507 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+04-May-2017 20:57:19.969 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.14
+04-May-2017 20:57:19.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 13 2017 12:55:45 UTC
+04-May-2017 20:57:19.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.14.0
+04-May-2017 20:57:19.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-May-2017 20:57:19.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-May-2017 20:57:19.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-May-2017 20:57:19.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_111\jre
+04-May-2017 20:57:19.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_111-b14
+04-May-2017 20:57:19.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-May-2017 20:57:19.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\kimco\git\apache-tomcat-8.5.14
+04-May-2017 20:57:19.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\kimco\git\apache-tomcat-8.5.14
+04-May-2017 20:57:19.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\kimco\git\apache-tomcat-8.5.14\conf\logging.properties
+04-May-2017 20:57:19.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-May-2017 20:57:19.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-May-2017 20:57:19.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-May-2017 20:57:19.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\kimco\git\apache-tomcat-8.5.14
+04-May-2017 20:57:19.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\kimco\git\apache-tomcat-8.5.14
+04-May-2017 20:57:19.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\kimco\git\apache-tomcat-8.5.14\temp
+04-May-2017 20:57:19.980 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_111\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\kimco\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\kimco\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\kimco\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\kimco\AppData\Local\Apps\2.0\E2YTE3DE.NT7\3758QCJ4.EHR\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\kimco\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\doxygen\bin;C:\Program Files (x86)\Skype\Phone\;C:\Users\kimco\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_111\bin;C:\Users\kimco\git\apache-maven-3.5.0\bin;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64;.
+04-May-2017 20:57:20.167 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-May-2017 20:57:20.431 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-May-2017 20:57:20.434 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-May-2017 20:57:20.437 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-May-2017 20:57:20.437 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 936 ms
+04-May-2017 20:57:20.518 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+04-May-2017 20:57:20.519 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.14
+04-May-2017 20:57:20.533 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\docs
+04-May-2017 20:57:20.983 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\docs has finished in 449 ms
+04-May-2017 20:57:20.983 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\examples
+04-May-2017 20:57:22.039 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\examples has finished in 1,056 ms
+04-May-2017 20:57:22.040 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\host-manager
+04-May-2017 20:57:22.138 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\host-manager has finished in 98 ms
+04-May-2017 20:57:22.148 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\manager
+04-May-2017 20:57:22.228 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\manager has finished in 80 ms
+04-May-2017 20:57:22.229 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ROOT
+04-May-2017 20:57:22.270 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ROOT has finished in 40 ms
+04-May-2017 20:57:22.273 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-May-2017 20:57:22.282 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-May-2017 20:57:22.286 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1847 ms
+04-May-2017 20:58:00.186 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war
+04-May-2017 20:58:01.268 INFO [http-nio-8080-exec-9] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-May-2017 20:58:01.304 INFO [http-nio-8080-exec-9] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 20:58:01.364 INFO [http-nio-8080-exec-9] com.sun.jersey.api.core.ScanningResourceConfig.logClasses Root resource classes found:
+  class main.java.com.rest.ImageIO
+04-May-2017 20:58:01.364 INFO [http-nio-8080-exec-9] com.sun.jersey.api.core.ScanningResourceConfig.init No provider classes found.
+04-May-2017 20:58:01.687 INFO [http-nio-8080-exec-9] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 20:58:02.892 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war has finished in 2,706 ms
+04-May-2017 21:08:44.685 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ImagePreprocessing]
+04-May-2017 21:08:58.136 INFO [http-nio-8080-exec-4] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war
+04-May-2017 21:08:59.744 INFO [http-nio-8080-exec-4] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-May-2017 21:08:59.770 INFO [http-nio-8080-exec-4] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 21:08:59.818 INFO [http-nio-8080-exec-4] com.sun.jersey.api.core.ScanningResourceConfig.logClasses Root resource classes found:
+  class main.java.com.rest.ImageIO
+04-May-2017 21:08:59.819 INFO [http-nio-8080-exec-4] com.sun.jersey.api.core.ScanningResourceConfig.init No provider classes found.
+04-May-2017 21:09:00.131 INFO [http-nio-8080-exec-4] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 21:09:01.072 INFO [http-nio-8080-exec-4] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war has finished in 2,936 ms
+04-May-2017 21:25:14.496 INFO [http-nio-8080-exec-13] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ImagePreprocessing]
+04-May-2017 21:25:27.159 INFO [http-nio-8080-exec-16] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war
+04-May-2017 21:25:29.319 INFO [http-nio-8080-exec-16] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-May-2017 21:25:29.348 INFO [http-nio-8080-exec-16] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 21:25:29.405 INFO [http-nio-8080-exec-16] com.sun.jersey.api.core.ScanningResourceConfig.logClasses Root resource classes found:
+  class main.java.com.rest.ImageIO
+04-May-2017 21:25:29.405 INFO [http-nio-8080-exec-16] com.sun.jersey.api.core.ScanningResourceConfig.init No provider classes found.
+04-May-2017 21:25:29.664 INFO [http-nio-8080-exec-16] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 21:25:30.595 INFO [http-nio-8080-exec-16] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war has finished in 3,437 ms
+04-May-2017 21:27:35.717 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ImagePreprocessing]
+04-May-2017 21:27:35.733 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.ExpandWar.deleteDir [C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing\WEB-INF\lib] could not be completely deleted. The presence of the remaining files may cause problems
+04-May-2017 21:27:35.735 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.ExpandWar.deleteDir [C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing\WEB-INF] could not be completely deleted. The presence of the remaining files may cause problems
+04-May-2017 21:27:35.736 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.ExpandWar.deleteDir [C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing] could not be completely deleted. The presence of the remaining files may cause problems
+04-May-2017 21:27:35.737 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.ExpandWar.delete [C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing] could not be completely deleted. The presence of the remaining files may cause problems
+04-May-2017 21:27:35.748 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing
+04-May-2017 21:27:36.356 INFO [localhost-startStop-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-May-2017 21:27:36.370 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing has finished in 622 ms
+04-May-2017 21:27:38.038 INFO [http-nio-8080-exec-21] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ImagePreprocessing]
+04-May-2017 21:28:10.567 INFO [http-nio-8080-exec-24] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war
+04-May-2017 21:28:11.557 INFO [http-nio-8080-exec-24] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-May-2017 21:28:11.583 INFO [http-nio-8080-exec-24] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 21:28:11.632 INFO [http-nio-8080-exec-24] com.sun.jersey.api.core.ScanningResourceConfig.logClasses Root resource classes found:
+  class main.java.com.rest.ImageIO
+04-May-2017 21:28:11.632 INFO [http-nio-8080-exec-24] com.sun.jersey.api.core.ScanningResourceConfig.init No provider classes found.
+04-May-2017 21:28:11.866 INFO [http-nio-8080-exec-24] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 21:28:12.730 INFO [http-nio-8080-exec-24] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war has finished in 2,164 ms
+04-May-2017 21:36:31.965 INFO [http-nio-8080-exec-31] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ImagePreprocessing]
+04-May-2017 21:36:45.971 INFO [http-nio-8080-exec-33] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war
+04-May-2017 21:36:47.068 INFO [http-nio-8080-exec-33] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-May-2017 21:36:47.112 INFO [http-nio-8080-exec-33] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 21:36:47.442 INFO [http-nio-8080-exec-33] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 21:36:48.150 SEVERE [http-nio-8080-exec-33] com.sun.jersey.server.impl.application.RootResourceUriRules.<init> The ResourceConfig instance does not contain any root resource classes.
+04-May-2017 21:36:48.165 INFO [http-nio-8080-exec-33] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war has finished in 2,194 ms
+04-May-2017 21:37:36.320 INFO [http-nio-8080-exec-37] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 21:37:36.339 INFO [http-nio-8080-exec-37] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 21:37:36.425 SEVERE [http-nio-8080-exec-37] com.sun.jersey.server.impl.application.RootResourceUriRules.<init> The ResourceConfig instance does not contain any root resource classes.
+04-May-2017 21:41:48.133 INFO [http-nio-8080-exec-38] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ImagePreprocessing]
+04-May-2017 21:41:48.656 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ImagePreprocessing]
+04-May-2017 21:42:00.819 INFO [http-nio-8080-exec-40] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war
+04-May-2017 21:42:01.780 INFO [http-nio-8080-exec-40] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-May-2017 21:42:01.807 INFO [http-nio-8080-exec-40] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 21:42:02.016 INFO [http-nio-8080-exec-40] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 21:42:02.519 SEVERE [http-nio-8080-exec-40] com.sun.jersey.server.impl.application.RootResourceUriRules.<init> The ResourceConfig instance does not contain any root resource classes.
+04-May-2017 21:42:02.527 INFO [http-nio-8080-exec-40] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war has finished in 1,708 ms
+04-May-2017 21:42:21.575 INFO [http-nio-8080-exec-43] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 21:42:21.593 INFO [http-nio-8080-exec-43] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 21:42:21.660 SEVERE [http-nio-8080-exec-43] com.sun.jersey.server.impl.application.RootResourceUriRules.<init> The ResourceConfig instance does not contain any root resource classes.
+04-May-2017 21:47:09.506 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ImagePreprocessing]
+04-May-2017 21:47:09.524 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.ExpandWar.deleteDir [C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing\WEB-INF\lib] could not be completely deleted. The presence of the remaining files may cause problems
+04-May-2017 21:47:09.527 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.ExpandWar.deleteDir [C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing\WEB-INF] could not be completely deleted. The presence of the remaining files may cause problems
+04-May-2017 21:47:09.530 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.ExpandWar.deleteDir [C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing] could not be completely deleted. The presence of the remaining files may cause problems
+04-May-2017 21:47:09.530 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.ExpandWar.delete [C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing] could not be completely deleted. The presence of the remaining files may cause problems
+04-May-2017 21:47:09.541 INFO [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing
+04-May-2017 21:47:09.977 INFO [localhost-startStop-3] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-May-2017 21:47:09.993 INFO [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing has finished in 452 ms
+04-May-2017 21:47:25.885 INFO [http-nio-8080-exec-51] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ImagePreprocessing]
+04-May-2017 21:47:41.125 INFO [http-nio-8080-exec-37] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war
+04-May-2017 21:47:42.071 INFO [http-nio-8080-exec-37] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-May-2017 21:47:42.099 INFO [http-nio-8080-exec-37] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 21:47:42.302 INFO [http-nio-8080-exec-37] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 21:47:42.786 SEVERE [http-nio-8080-exec-37] com.sun.jersey.server.impl.application.RootResourceUriRules.<init> The ResourceConfig instance does not contain any root resource classes.
+04-May-2017 21:47:42.794 INFO [http-nio-8080-exec-37] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war has finished in 1,670 ms
+04-May-2017 21:48:34.647 INFO [http-nio-8080-exec-54] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 21:48:34.660 INFO [http-nio-8080-exec-54] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 21:48:34.741 SEVERE [http-nio-8080-exec-54] com.sun.jersey.server.impl.application.RootResourceUriRules.<init> The ResourceConfig instance does not contain any root resource classes.
+04-May-2017 22:06:41.761 INFO [http-nio-8080-exec-56] org.apache.catalina.util.LifecycleBase.stop The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ImagePreprocessing]] after stop() had already been called. The second call will be ignored.
+04-May-2017 22:06:42.521 INFO [http-nio-8080-exec-61] org.apache.catalina.util.LifecycleBase.stop The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ImagePreprocessing]] after stop() had already been called. The second call will be ignored.
+04-May-2017 22:06:42.708 INFO [http-nio-8080-exec-58] org.apache.catalina.util.LifecycleBase.stop The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ImagePreprocessing]] after stop() had already been called. The second call will be ignored.
+04-May-2017 22:06:44.065 INFO [http-nio-8080-exec-63] org.apache.catalina.util.LifecycleBase.stop The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ImagePreprocessing]] after stop() had already been called. The second call will be ignored.
+04-May-2017 22:06:44.589 INFO [http-nio-8080-exec-63] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ImagePreprocessing]
+04-May-2017 22:06:45.728 INFO [http-nio-8080-exec-54] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/docs]
+04-May-2017 22:06:53.028 INFO [http-nio-8080-exec-65] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war
+04-May-2017 22:06:54.228 INFO [http-nio-8080-exec-65] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 22:06:54.454 INFO [http-nio-8080-exec-65] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 22:06:54.940 SEVERE [http-nio-8080-exec-65] com.sun.jersey.server.impl.application.RootResourceUriRules.<init> The ResourceConfig instance does not contain any root resource classes.
+04-May-2017 22:06:54.948 INFO [http-nio-8080-exec-65] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war has finished in 1,920 ms
+04-May-2017 22:07:30.186 INFO [http-nio-8080-exec-62] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 22:07:30.203 INFO [http-nio-8080-exec-62] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 22:07:30.292 SEVERE [http-nio-8080-exec-62] com.sun.jersey.server.impl.application.RootResourceUriRules.<init> The ResourceConfig instance does not contain any root resource classes.
+04-May-2017 22:21:22.325 INFO [http-nio-8080-exec-67] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ImagePreprocessing]
+04-May-2017 22:21:34.949 INFO [http-nio-8080-exec-68] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war
+04-May-2017 22:21:35.873 INFO [http-nio-8080-exec-68] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 22:21:36.136 INFO [http-nio-8080-exec-68] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 22:21:36.627 SEVERE [http-nio-8080-exec-68] com.sun.jersey.server.impl.application.RootResourceUriRules.<init> The ResourceConfig instance does not contain any root resource classes.
+04-May-2017 22:21:36.635 INFO [http-nio-8080-exec-68] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\kimco\git\apache-tomcat-8.5.14\webapps\ImagePreprocessing.war has finished in 1,685 ms
+04-May-2017 22:22:16.782 INFO [http-nio-8080-exec-73] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  main.java.com.rest
+04-May-2017 22:22:16.798 INFO [http-nio-8080-exec-73] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-May-2017 22:22:16.878 SEVERE [http-nio-8080-exec-73] com.sun.jersey.server.impl.application.RootResourceUriRules.<init> The ResourceConfig instance does not contain any root resource classes.
